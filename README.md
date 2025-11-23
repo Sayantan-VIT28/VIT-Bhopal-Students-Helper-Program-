@@ -23,7 +23,7 @@ See `/screenshots` folder
 See `/recording` folder
 
 ## Project Report
-See `Report.pdf`
+See `Report.docx`
 
 ## Made by
 Sayantan Das 
