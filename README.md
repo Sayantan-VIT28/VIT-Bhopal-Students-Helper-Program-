@@ -19,6 +19,9 @@ Supports raw internal marks (out of 40), correct 40-30-30 weightage, bunk meter,
 ## Screenshots
 See `/screenshots` folder
 
+## Recording
+See `/recording` folder
+
 ## Project Report
 See `Report.pdf`
 
