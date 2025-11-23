@@ -13,8 +13,8 @@ Supports raw internal marks (out of 40), correct 40-30-30 weightage, bunk meter,
 - Beautiful colored interface
 
 ## How to Run
-1. Compile: `javac UltimateSGPAMaster.java`
-2. Run: `java UltimateSGPAMaster`
+1. Compile: `javac FinalSGPAMaster.java`
+2. Run: `java FinalSGPAMaster`
 
 ## Screenshots
 See `/screenshots` folder
