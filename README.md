@@ -1,6 +1,6 @@
 # VITB Students Helper Program
 
-**The most accurate & student-friendly SGPA tool for VIT students**  
+**The most accurate & student-friendly helper for VITB students**  
 Supports raw internal marks (out of 40), correct 40-30-30 weightage, bunk meter, dream SGPA, what-if, and more!
 
 ## Features
