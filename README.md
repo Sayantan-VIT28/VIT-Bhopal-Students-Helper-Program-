@@ -1,10 +1,10 @@
 # VITB Students Helper Program
 
 **The most accurate & student-friendly helper for VITB students**  
-Supports raw internal marks (out of 40), correct 40-30-30 weightage, bunk meter, dream SGPA, what-if, and more!
+Supports internal marks (out of 40) and external marks(mid term (50) + term end(100)), correct 40-30-30 weightage, bunk meter, dream SGPA, what-if, and more!
 
 ## Features
-- Raw Internal marks input (out of 40) – exactly like VTOP
+- Internal marks input (out of 40, Mid term input (out of 50), Term end input (out of 100)
 - 40% Internal | 30% Mid | 30% Term End weightage
 - Real Bunk-O-Meter (75% rule)
 - Dream SGPA calculator
